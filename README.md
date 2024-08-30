@@ -7,10 +7,12 @@
 
 ### Audio Output Generated
 <audio controls>
-  <source src="data/audio.flac" type="audio/flac">
+  <source src="[Output Audio](https://github.com/shounakda5/llm-image2speech-app/blob/main/assets/audio.mp3)" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
+## Web UI
+<img src="assets/ui.jpg" alt="Web UI" width="400"/>
 
 ## Using this Repository
 
